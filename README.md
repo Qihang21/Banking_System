@@ -44,9 +44,12 @@ python main.py
 
 OR you can run the code in the VS Code, that it would be easier for you.
 
-2. The `bank_account.csv` file will be created after creating an account
+2. After running the program, you have seven options to choose. See the image.
+![options](https://github.com/Qihang21/Banking_System/blob/main/image/1.png) 
 
-3. The `download_bank_account.csv` file will be created after selecting the "Download Accounts" option
+3. The `bank_account.csv` file will be created after creating an account
+
+4. The `download_bank_account.csv` file will be created after selecting the "Download Accounts" option
 
 ## License
 This project is licensed under the MIT License.

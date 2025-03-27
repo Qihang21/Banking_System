@@ -14,7 +14,6 @@ class BankingSystem:
             with open("bank_account.csv", "r", newline = "") as f:
                 reader = csv.DictReader(f)
                 for row in reader:
-                    print(row)
                     existing_data[row["name"]] = BankAccount(row["name"], float(row["balance"]))
      
         existing_data.update(accounts_data)

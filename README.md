@@ -12,6 +12,7 @@ This is a banking system implemented in Python. This system allows users to crea
 - Save and load system state to CSV
 
 ## File Structure
+```
 Banking_System
 |   |── bank_account.py   
 |   |── banking_system.py 
@@ -20,6 +21,7 @@ Banking_System
 bank_account.csv
 |
 download_bank_account.csv
+```
 
 ## Programming Language
 Python 3.11
